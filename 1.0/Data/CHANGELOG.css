@@ -1,0 +1,20 @@
+button {
+    font-family: sans-serif;
+    font-size: 20px;
+    background: #000000;
+    color: white;
+    border: white;
+    border-radius: 25px;
+    padding: 12px 20px;
+    margin-top: 1px;
+}
+
+button:hover {
+    opacity: 0,9;
+    font-family: sans-serif;
+    font-size: 22px;
+    background: white;
+    color: black;
+    border: black;
+    padding: 14px 21px;
+}
